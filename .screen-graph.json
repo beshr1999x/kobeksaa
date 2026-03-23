@@ -1,0 +1,229 @@
+{
+  "nodes": [
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "label": "LandingPageMobile",
+      "routes": [
+        "/"
+      ],
+      "isRoot": true
+    },
+    {
+      "id": "src/screens/ComingSoon/ComingSoon.jsx",
+      "label": "ComingSoon",
+      "routes": [
+        "/coming-soon"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:44:31-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 44,
+          "endLine": 44,
+          "column": 31,
+          "endColumn": 55,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:123:29-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 123,
+          "endLine": 123,
+          "column": 29,
+          "endColumn": 53,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:310:35-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 310,
+          "endLine": 310,
+          "column": 35,
+          "endColumn": 59,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:320:35-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 320,
+          "endLine": 320,
+          "column": 35,
+          "endColumn": 59,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:330:35-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 330,
+          "endLine": 330,
+          "column": 35,
+          "endColumn": 59,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:340:35-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 340,
+          "endLine": 340,
+          "column": 35,
+          "endColumn": 59,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:350:35-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 350,
+          "endLine": 350,
+          "column": 35,
+          "endColumn": 59,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:362:31-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 362,
+          "endLine": 362,
+          "column": 31,
+          "endColumn": 55,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:404:33-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 404,
+          "endLine": 404,
+          "column": 33,
+          "endColumn": 57,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:493:33-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 493,
+          "endLine": 493,
+          "column": 33,
+          "endColumn": 57,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:517:41-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 517,
+          "endLine": 517,
+          "column": 41,
+          "endColumn": 65,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:806:43-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 806,
+          "endLine": 806,
+          "column": 43,
+          "endColumn": 67,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/LandingPageMobile/LandingPageMobile.jsx:867:29-to-src/screens/ComingSoon/ComingSoon.jsx",
+      "source": "src/screens/LandingPageMobile/LandingPageMobile.jsx",
+      "target": "src/screens/ComingSoon/ComingSoon.jsx",
+      "data": {
+        "viaRoute": "/coming-soon",
+        "trigger": {
+          "element": "navigate(\"/coming-soon\")",
+          "line": 867,
+          "endLine": 867,
+          "column": 29,
+          "endColumn": 53,
+          "sourceFile": "src/screens/LandingPageMobile/LandingPageMobile.jsx"
+        }
+      }
+    }
+  ]
+}
